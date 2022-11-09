@@ -1,0 +1,20 @@
+﻿  field.cpp
+  food.cpp
+  game.cpp
+E:\Avalon\Курсовая\KursovoyProject\snake_con_11\game.cpp(131,38): warning C4018: >: несоответствие типов со знаком и без знака
+E:\Avalon\Курсовая\KursovoyProject\snake_con_11\game.cpp(139,37): warning C4018: >: несоответствие типов со знаком и без знака
+E:\Avalon\Курсовая\KursovoyProject\snake_con_11\game.cpp(148,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Avalon\Курсовая\KursovoyProject\snake_con_11\game.cpp(151,24): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+E:\Avalon\Курсовая\KursovoyProject\snake_con_11\main.cpp(16,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  snake.cpp
+E:\Avalon\Курсовая\KursovoyProject\snake_con_11\snake.cpp(17,25): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Avalon\Курсовая\KursovoyProject\snake_con_11\snake.cpp(25,25): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Avalon\Курсовая\KursovoyProject\snake_con_11\snake.cpp(34,25): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Avalon\Курсовая\KursovoyProject\snake_con_11\snake.cpp(42,25): warning C4018: <: несоответствие типов со знаком и без знака
+  winconsole.cpp
+E:\Avalon\Курсовая\KursovoyProject\snake_con_11\winconsole.cpp(17,21): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+E:\Avalon\Курсовая\KursovoyProject\snake_con_11\winconsole.cpp(17,24): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  Создание кода...
+GraphicsLib.lib(GraphicsLib.obj) : warning LNK4099: "GraphicsLib.pdb" PDB не найден с "GraphicsLib.lib(GraphicsLib.obj)" или на "E:\Avalon\Курсовая\KursovoyProject\Debug\GraphicsLib.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  snake_con_11.vcxproj -> E:\Avalon\Курсовая\KursovoyProject\Debug\snake_con_11.exe
